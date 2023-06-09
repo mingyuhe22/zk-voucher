@@ -1,0 +1,4 @@
+/circuits/*
+!/circuits/circuit.circom
+/node_modules
+/package-lock.json
